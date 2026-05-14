@@ -11,7 +11,7 @@ Hosteado gratis en GitHub Pages.
 /
 ├── index.html          ← El sitio entero (HTML + CSS + JS en un solo archivo)
 ├── img/                ← Carpeta con todas las fotos y videos
-│   ├── image_2588d113.png
+│   ├── logo-propeller-pro.png
 │   ├── protector-aspersor-t50-1.jpg
 │   ├── protector-aspersor-t50-2.jpg
 │   ├── protector-aspersor-t50-3.jpg
