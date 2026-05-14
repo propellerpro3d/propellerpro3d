@@ -39,6 +39,34 @@ Abrí `index.html` con cualquier editor de texto (recomiendo [VS Code](https://c
 
 ```javascript
 const PRODUCTOS = [
+{
+  id: "tapa-carga-rapida-agras",
+  visible: true,
+  nombre: "Tapa de Carga Rápida para Líquidos",
+  linea: "AGRAS",
+  modelos: ["DJI T40", "DJI T50", "DJI T25P"],
+  proximamente: [],
+  descripcion: "Tapa de carga rápida para líquidos compatible con tu DJI Agras. Fabricada en PETG de alta resistencia, se adapta perfectamente a la tapa original del dron.",
+  caracteristicas: [
+    "Compatible con DJI T40, T50 y T25P",
+    "Material PETG de alta resistencia",
+    "Se adapta a la tapa original del dron",
+    "Hecho en Argentina"
+  ],
+  material: ["PETG"],
+  colores: ["Negro"],
+  presentacion: "Unidad",
+  precio: null,
+  moneda: "ARS",
+  fotos: [
+    "img/tapa-carga-rapida-1.jpeg",
+    "img/tapa-carga-rapida-2.jpeg",
+    "img/tapa-carga-rapida-3.jpeg",
+    "img/tapa-carga-rapida-4.jpeg"
+  ],
+  video: "",
+  badge: "NUEVO"
+},
   {
     id: "protector-aspersor-t50",
     ...
